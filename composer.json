@@ -1,0 +1,19 @@
+{
+    "name": "qqes/logreporter",
+    "description": "simple log report",
+    "keywords": ["nginix log report"],
+    "type": "library",
+    "homepage": "http://www.7724.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "QQES_ZH",
+            "homepage": "http://www.7724.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Qqes\\LogReporter\\": "src/"
+        }
+    }
+}
